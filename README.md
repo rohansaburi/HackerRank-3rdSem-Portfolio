@@ -1,6 +1,7 @@
 # HackerRank 3rd Sem Portfolio
 
-**HackerRank Profile:** https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME
+**HackerRank Profile:** https://www.hackerrank.com/YOUR_HACKERRANK_rohansaburi
+
 
 ## Complexity Analysis Table
 
